@@ -42,7 +42,7 @@ a#toTop{
 }
 /*-- header_top --*/
 .header{
-	background:#69d2e8;
+	background:#1e2836;
 	padding:1em 0;
 }
 .headr-left{
@@ -502,7 +502,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 }
 
 .poster{
-	background:url(../images/pst1.jpg) no-repeat 0px 0px;
+	background:url(../images/gongying.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	position:relative;
 }
