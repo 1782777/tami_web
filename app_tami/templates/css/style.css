@@ -748,7 +748,8 @@ p.snglp{
   line-height: 1.6em;
 }
 .blog-img img{
-	width:100%;
+  width:100%;
+  margin-top: 1em;
 }
 .blog-info-text a img {
   width: 100%;
